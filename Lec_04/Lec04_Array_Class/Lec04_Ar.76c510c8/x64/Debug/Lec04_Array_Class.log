@@ -1,0 +1,3 @@
+﻿  image.cpp
+Lec04_Array_Class.obj : error LNK2005: "int (* image)[8]" (?image@@3PAY07HA)이(가) image.obj에 이미 정의되어 있습니다.
+C:\Users\박수빈\Desktop\data-structure-2026-4\Lec04_Array_Class\Lec04_Array_Class\x64\Debug\Lec04_Array_Class.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

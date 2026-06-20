@@ -1,0 +1,9 @@
+﻿  Car.cpp
+C:\Users\박수빈\Desktop\data-structure-2026-4\Lec04_Array_Class\Car_Class\Car.h(29,27): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Car *'입니다.
+  (소스 파일 'Car.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\박수빈\Desktop\data-structure-2026-4\Lec04_Array_Class\Car_Class\Car.h(29,27): warning C4313: 'printf': 서식 문자열의 '%x'이(가) Car *' 형식의 인수 1과(와) 충돌합니다.
+  (소스 파일 'Car.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\박수빈\Desktop\data-structure-2026-4\Lec04_Array_Class\Car_Class\Car.cpp(4,32): warning C4305: '인수': 'int'에서 'bool'(으)로 잘립니다.
+  Car_Class.vcxproj -> C:\Users\박수빈\Desktop\data-structure-2026-4\Lec04_Array_Class\Lec04_Array_Class\x64\Debug\Car_Class.exe

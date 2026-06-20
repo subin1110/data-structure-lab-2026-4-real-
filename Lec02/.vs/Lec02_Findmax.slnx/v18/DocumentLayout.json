@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uBC15\uC218\uBE48\\Desktop\\\uB370\uAD6C\uC870\\Lec02_Findmax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59E1F3B0-100D-4A29-BC93-62058912EF4A}|Lec02_Findmax.vcxproj|C:\\Users\\\uBC15\uC218\uBE48\\Desktop\\\uB370\uAD6C\uC870\\Lec02_Findmax\\Lec02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59E1F3B0-100D-4A29-BC93-62058912EF4A}|Lec02_Findmax.vcxproj|solutionrelative:Lec02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lec02.cpp",
+              "DocumentMoniker": "C:\\Users\\\uBC15\uC218\uBE48\\Desktop\\\uB370\uAD6C\uC870\\Lec02_Findmax\\Lec02.cpp",
+              "RelativeDocumentMoniker": "Lec02.cpp",
+              "ToolTip": "C:\\Users\\\uBC15\uC218\uBE48\\Desktop\\\uB370\uAD6C\uC870\\Lec02_Findmax\\Lec02.cpp",
+              "RelativeToolTip": "Lec02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-19T08:15:21.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

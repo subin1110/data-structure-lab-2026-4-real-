@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Complex.h.obj",
+            "outputs": [
+                "C:\\Users\\박수빈\\Desktop\\data-structure-2026-4\\Lec04_Array_Class\\Complex_Class\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\박수빈\\Desktop\\data-structure-2026-4\\Lec04_Array_Class\\Complex_Class\\x64\\Debug\\Complex.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Complex.h",
+                    "source-path": "c:\\users\\박수빈\\desktop\\data-structure-2026-4\\lec04_array_class\\complex_class\\complex.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

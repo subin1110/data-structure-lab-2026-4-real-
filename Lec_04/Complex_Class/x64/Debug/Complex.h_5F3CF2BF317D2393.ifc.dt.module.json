@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Complex.obj",
+            "outputs": [
+                "x64\\Debug\\Complex.h_5F3CF2BF317D2393.ifc.dt.module.json",
+                "x64\\Debug\\Complex.h_5F3CF2BF317D2393.ifc.dt.d.json",
+                "x64\\Debug\\Complex.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\박수빈\\Desktop\\데구조\\Complex_Class\\Complex.h",
+                    "source-path": "c:\\users\\박수빈\\desktop\\데구조\\complex_class\\complex.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
